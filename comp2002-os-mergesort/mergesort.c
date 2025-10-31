@@ -65,7 +65,7 @@ void my_mergesort(int left, int right)
 
 /* this function will be called by the testing program. */
 //In parallel merge sort, instead of sorting the left half then the right half,
-we sort both halves at the same time using separate threads.
+//we sort both halves at the same time using separate threads.
 void *parallel_mergesort(void *arg)
 {
 	struct argument *args = (struct argument *) arg;
@@ -74,8 +74,8 @@ void *parallel_mergesort(void *arg)
     int level = args->level;
 
     // Base case: If only one element, or we’ve hit cutoff depth
-	//→ stop creating new threads,
-	//→ just sort normally (serially) using my_mergesort().
+	//		 stop creating new threads,
+	// 		 just sort normally (serially) using my_mergesort().
     if (left >= right) {
         free(arg);
         return NULL;
