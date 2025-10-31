@@ -67,10 +67,12 @@ We found this assignment straightforward and enjoyable to complete. Most of the 
 
 We did not encounter any major issues during development. The concepts of thread creation, joining, and recursion were easy to apply once the structure became clear. Testing program made it simple to verify correctness and performance without needing to write additional code.
 
-Overall, this project helped reinforce our understanding of multithreading and how parallel execution can improve performance for divide-and-conquer algorithms like merge sort. I
+Overall, this project helped reinforce our understanding of multithreading and how parallel execution can improve performance for divide-and-conquer algorithms like merge sort. 
 We genuinely enjoyed working on it and appreciated how cleanly everything came together.
 
 ## Sources Used
 https://www.youtube.com/watch?v=86HOPLCgc00&t=2859s
+
 https://leetcode.com/problems/merge-sorted-array/
+
 https://stackoverflow.com/questions/1163624/memcpy-with-startindex
