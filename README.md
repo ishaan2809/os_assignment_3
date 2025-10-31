@@ -1,5 +1,3 @@
-README.md
-
 ## Project Number/Title 
 
 * Authors: Ishaan and Seth 
