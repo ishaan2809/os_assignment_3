@@ -63,11 +63,12 @@ N/A
 
 ## Reflection and Self Assessment
 
-I found this assignment straightforward and enjoyable to complete. Most of the testing and framework code was already provided, so my main focus was implementing the merge sort and parallel merge sort logic. Once I understood how the pthread library and the buildArgs() function worked, the rest of the development process felt very smooth.
+We found this assignment straightforward and enjoyable to complete. Most of the testing and framework code was already provided, so our main focus was implementing the merge sort and parallel merge sort logic. Once we understood how the pthread library and the buildArgs() function worked, the rest of the development process felt very smooth.
 
-I did not encounter any major issues during development. The concepts of thread creation, joining, and recursion were easy to apply once the structure became clear. I especially liked how the testing program made it simple to verify correctness and performance without needing to write additional code.
+We did not encounter any major issues during development. The concepts of thread creation, joining, and recursion were easy to apply once the structure became clear. Testing program made it simple to verify correctness and performance without needing to write additional code.
 
-Overall, this project helped reinforce my understanding of multithreading and how parallel execution can improve performance for divide-and-conquer algorithms like merge sort. I genuinely enjoyed working on it and appreciated how cleanly everything came together.
+Overall, this project helped reinforce our understanding of multithreading and how parallel execution can improve performance for divide-and-conquer algorithms like merge sort. I
+We genuinely enjoyed working on it and appreciated how cleanly everything came together.
 
 ## Sources Used
 https://www.youtube.com/watch?v=86HOPLCgc00&t=2859s
